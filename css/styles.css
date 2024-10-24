@@ -1,0 +1,20 @@
+* {
+    font-family: Heebo;
+}
+
+:root {
+    --color:  #F4F5F9;
+}
+
+.hero {
+    background-color: var(--color);
+    min-height: 60vh;
+}
+
+.prime {
+    background-color: var(--color);
+}
+
+.footer {
+    width: 100%;
+}
